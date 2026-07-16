@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(161, 148, 197)
+}
+h1, h2, p {
+    color: rgb(37, 5, 75);
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: rgb(7, 10, 187);
+}
+#para1 {
+    text-align: center;
+    color: hsl(324, 93%, 5%);
+}
+
+.center {
+    text-align: left;
+    color: rgb(71, 9, 9);
+}
+div {
+    border: 5px solid rgb(39, 7, 68);
+    background-color: rgb(179, 164, 194);
+    padding: 30px;
+    width: 300px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+div a{
+    text-decoration: none ;
+}
+div span{
+    color: black;
+    display: flex;
+}
+
+.p1 { 
+    font-family:cursive;
+}
+.p2 {
+    font-family:cursive;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+button {
+    background-color: rgba(52, 34, 56, 0.897);
+    border-radius: 10px;
+}

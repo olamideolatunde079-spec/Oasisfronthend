@@ -1,0 +1,57 @@
+body {
+   background:  #b1acac url(girlie.jpg) no-repeat right top;
+   font-family: cursive;
+}
+
+/* header and paragraph style */
+
+h1, h2, p {
+    color: rgb(141, 105, 161);
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#para1 {
+    text-align: center;
+    color: hsl(325, 100%, 23%);
+}
+
+.center {
+    text-align: left;
+    color: rgb(71, 9, 9);
+}
+div {
+    border: 5px solid rgb(39, 5, 53);
+    background-color: rgb(179, 164, 194);
+    padding: 30px;
+    width: 300px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: center;
+}
+div a{
+    text-decoration: none ;
+}
+div span{
+    color: black;
+    display: flex;
+}
+
+.p1 { 
+    font-family:cursive;
+}
+.p2 {
+    font-family:cursive;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+button {
+    background-color: rgba(41, 4, 46, 0.897);
+    border-radius: 10px;
+}
